@@ -1,8 +1,7 @@
 # -*- coding:utf-8 -*-
-import os
+
 import urllib2
 import re
-import time
 
 class QSBK(object):
     def __init__(self):
